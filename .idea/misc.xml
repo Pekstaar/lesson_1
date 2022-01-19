@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/nonfilled_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_full.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/constraint_layout.xml" value="0.33" />
       </map>
